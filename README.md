@@ -3,6 +3,8 @@
 
 - Currently working for Postobon as a security analyst.
 - Currently learning **Cloud architecture (Azure and AWS)** technologies
+- 👨‍💻 All of my projects are available at [https://jean0828.github.io](https://jean0828.github.io)
+- 📝 I regularly write articles on [https://jean0828.github.io/blog/](https://jean0828.github.io/blog/)
 
 ## Skills
 
