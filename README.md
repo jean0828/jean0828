@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean Pierre</h1>
 <h3 align="center">I'm a passionate security engineer from Colombia.</h3>
 
-- Currently working for Postobon as a security analyst.
+- Currently working as a security analyst.
 - Currently learning **Cloud architecture (Azure and AWS)** technologies
 - 👨‍💻 All of my projects are available at [https://jean0828.github.io](https://jean0828.github.io)
 - 📝 I regularly write articles on [https://jean0828.github.io/blog/](https://jean0828.github.io/blog/)
